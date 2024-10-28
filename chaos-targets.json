@@ -1416,6 +1416,12 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/amsterdam_airport_schiphol.zip"
     },
     {
+        "domain": "apna.co",
+        "name": "Apna",
+        "platform_url": "https://apna.co/vulnerability-disclosure-policy",
+        "ZIP": "https://chaos-data.projectdiscovery.io/apna.zip"
+    },
+    {
         "domain": "apple.com",
         "name": "Apple",
         "platform_url": "https://security.apple.com",
