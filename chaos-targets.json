@@ -3132,12 +3132,6 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/coin98.zip"
     },
     {
-        "domain": "coinbase.pro",
-        "name": "Coinbase",
-        "platform_url": "https://hackerone.com/coinbase",
-        "ZIP": "https://chaos-data.projectdiscovery.io/coinbase.zip"
-    },
-    {
         "domain": "coinbase.com",
         "name": "Coinbase",
         "platform_url": "https://hackerone.com/coinbase",
@@ -3150,7 +3144,7 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/coinbase.zip"
     },
     {
-        "domain": "paradex.io",
+        "domain": "base.org",
         "name": "Coinbase",
         "platform_url": "https://hackerone.com/coinbase",
         "ZIP": "https://chaos-data.projectdiscovery.io/coinbase.zip"
@@ -21544,6 +21538,12 @@
         "name": "Tickets Travel Network",
         "platform_url": "https://hackenproof.com/tickets-travel-network/tickets-travel-network-slash-updated-ui",
         "ZIP": "https://chaos-data.projectdiscovery.io/tickets_travel_network.zip"
+    },
+    {
+        "domain": "tide.co",
+        "name": "Tide",
+        "platform_url": "https://hackerone.com/tide",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tide.zip"
     },
     {
         "domain": "tiktok.com",
