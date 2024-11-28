@@ -19566,6 +19566,42 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/say_technologies.zip"
     },
     {
+        "domain": "sbb.ch",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
+        "domain": "sbbmobile.ch",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
+        "domain": "swisspass.ch",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
+        "domain": "elvetino.ch",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
+        "domain": "sbbcargo.com",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
+        "domain": "transsicura.ch",
+        "name": "SBB - Swiss Federal Railways",
+        "platform_url": "https://app.intigriti.com/programs/sbb/sbbglobal/detail",
+        "ZIP": "https://chaos-data.projectdiscovery.io/sbb_-_swiss_federal_railways.zip"
+    },
+    {
         "domain": "scholarfundwa.org",
         "name": "Scholar Fund",
         "platform_url": "https://www.scholarfundwa.org/bug-bounty",
@@ -23242,6 +23278,12 @@
         "name": "USAA",
         "platform_url": "https://bugcrowd.com/usaa",
         "ZIP": "https://chaos-data.projectdiscovery.io/usaa.zip"
+    },
+    {
+        "domain": "uxcam.com",
+        "name": "UXCam",
+        "platform_url": "https://uxcam.com/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/uxcam.zip"
     },
     {
         "domain": "valiant.ch",
