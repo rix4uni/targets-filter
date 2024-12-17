@@ -4070,7 +4070,7 @@
     {
         "domain": "belastingdienst.nl",
         "name": "Dutch Tax Office",
-        "platform_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/coordinated-vulnerability-disclosure",
+        "platform_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/data-leak-vulnerability-abuse-computer-systems-report",
         "ZIP": "https://chaos-data.projectdiscovery.io/dutch_tax_office.zip"
     },
     {
