@@ -23130,6 +23130,48 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/unilever.zip"
     },
     {
+        "domain": "unionpay.com",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpay.net",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpayadvisors.com",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpayintl.cn",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpayintl.com",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpaysecure.com",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
+        "domain": "unionpaysmart.com",
+        "name": "UnionPay",
+        "platform_url": "https://security.unionpay.com/",
+        "ZIP": "https://chaos-data.projectdiscovery.io/unionpay.zip"
+    },
+    {
         "domain": "united.com",
         "name": "United Airlines",
         "platform_url": "https://bugcrowd.com/united-vdp",
