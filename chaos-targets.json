@@ -21126,6 +21126,72 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/tealium.zip"
     },
     {
+        "domain": "tecno-mobile.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "boomplay.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "mobile-phantom.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "palm.tech",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "tecno.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "carlcare.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "pcconnection.online",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "nebulalive.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "transsion-os.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "transsion-message.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
+        "domain": "vishavideo.com",
+        "name": "TECNO",
+        "platform_url": "https://security.tecno.com/dashboard",
+        "ZIP": "https://chaos-data.projectdiscovery.io/tecno.zip"
+    },
+    {
         "domain": "aetkasmart.de",
         "name": "Telefonica",
         "platform_url": "https://bugcrowd.com/telefonicavdp",
