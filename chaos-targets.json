@@ -14508,24 +14508,6 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/host_gator.zip"
     },
     {
-        "domain": "hostinger.com",
-        "name": "Hostinger",
-        "platform_url": "https://www.hostinger.in/responsible-disclosure-policy",
-        "ZIP": "https://chaos-data.projectdiscovery.io/hostinger.zip"
-    },
-    {
-        "domain": "zyro.com",
-        "name": "Hostinger",
-        "platform_url": "https://www.hostinger.in/responsible-disclosure-policy",
-        "ZIP": "https://chaos-data.projectdiscovery.io/hostinger.zip"
-    },
-    {
-        "domain": "hosting24.com",
-        "name": "Hostinger",
-        "platform_url": "https://www.hostinger.in/responsible-disclosure-policy",
-        "ZIP": "https://chaos-data.projectdiscovery.io/hostinger.zip"
-    },
-    {
         "domain": "htc.com",
         "name": "HTC",
         "platform_url": "https://www.htc.com/in/terms/product-security/",
@@ -15532,180 +15514,6 @@
         "name": "Latoken",
         "platform_url": "https://hackenproof.com/latoken/latoken-exchange",
         "ZIP": "https://chaos-data.projectdiscovery.io/latoken.zip"
-    },
-    {
-        "domain": "lazada.sg",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.vn",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.co.id",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.co.th",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.com",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.com.ph",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada.com.my",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazada-seller.cn",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "redmart.com",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lel.asia",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lex.co.id",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lex.com.my",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lex.in.th",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lex.ph",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lex.vn",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "supertms.com",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lel.global",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.vn",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.id",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.in.th",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.ph",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.my",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "pickmee.sg",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.co.id",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.in.th",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.sg",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.vn",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.my",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
-    },
-    {
-        "domain": "lazlogistics.ph",
-        "name": "Lazada",
-        "platform_url": "https://yeswehack.com/programs/lazada",
-        "ZIP": "https://chaos-data.projectdiscovery.io/lazada.zip"
     },
     {
         "domain": "lcx.com",
@@ -17172,12 +16980,6 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/mujs.zip"
     },
     {
-        "domain": "muslimpro.com",
-        "name": "Muslim Pro",
-        "platform_url": "https://yeswehack.com/programs/muslim-pro",
-        "ZIP": "https://chaos-data.projectdiscovery.io/muslim_pro.zip"
-    },
-    {
         "domain": "myetherwallet.com",
         "name": "MyEtherWallet",
         "platform_url": "https://hackenproof.com/myetherwallet",
@@ -18100,18 +17902,6 @@
         "name": "OVH",
         "platform_url": "https://yeswehack.com/programs/ovh",
         "ZIP": "https://chaos-data.projectdiscovery.io/ovh.zip"
-    },
-    {
-        "domain": "ovo.id",
-        "name": "OVO",
-        "platform_url": "https://yeswehack.com/programs/ovo-bug-bounty-program",
-        "ZIP": "https://chaos-data.projectdiscovery.io/ovo.zip"
-    },
-    {
-        "domain": "taralite.com",
-        "name": "OVO",
-        "platform_url": "https://yeswehack.com/programs/ovo-bug-bounty-program",
-        "ZIP": "https://chaos-data.projectdiscovery.io/ovo.zip"
     },
     {
         "domain": "zaproxy.org",
@@ -21832,12 +21622,6 @@
         "name": "Traveloka",
         "platform_url": "https://www.traveloka.com/en-id/bugs",
         "ZIP": "https://chaos-data.projectdiscovery.io/traveloka.zip"
-    },
-    {
-        "domain": "treebal.green",
-        "name": "Treebal",
-        "platform_url": "https://yeswehack.com/programs/treebal-the-eco-responsible-messaging",
-        "ZIP": "https://chaos-data.projectdiscovery.io/treebal.zip"
     },
     {
         "domain": "fireeye.com",
