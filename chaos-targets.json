@@ -5202,12 +5202,6 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/gitlab.zip"
     },
     {
-        "domain": "glassdoor.app",
-        "name": "Glassdoor",
-        "platform_url": "https://hackerone.com/glassdoor",
-        "ZIP": "https://chaos-data.projectdiscovery.io/glassdoor.zip"
-    },
-    {
         "domain": "glassdoor.com",
         "name": "Glassdoor",
         "platform_url": "https://hackerone.com/glassdoor",
