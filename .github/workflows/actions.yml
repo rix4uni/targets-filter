@@ -28,6 +28,7 @@ jobs:
       run: |
         go run trickest.go
         go run chaos.go
+        wget -O chaos-website-targets.json -q https://chaos-data.projectdiscovery.io/index.json
 
     - name: Commit and push changes if there are any
       run: |
