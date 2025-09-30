@@ -5136,6 +5136,72 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/gener8.zip"
     },
     {
+        "domain": "clearance.network",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "clearid.io",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "genetec.cloud",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "genetec.com",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "genetec.one",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "geneteccloud.com",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "q2c.eu",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "autovu.com",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "curbsense.com",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "autovu.cloud",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
+        "domain": "ops.center",
+        "name": "Genetec",
+        "platform_url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+        "ZIP": "https://chaos-data.projectdiscovery.io/genetec.zip"
+    },
+    {
         "domain": "geotab.com",
         "name": "Geotab",
         "platform_url": "https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US",
