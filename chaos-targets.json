@@ -23424,7 +23424,7 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/vfs.zip"
     },
     {
-        "domain": "vfsglobalco.uk",
+        "domain": "vfsglobal.co.uk",
         "name": "Vfs",
         "platform_url": "https://yeswehack.com/programs/vfs-global-bug-bounty-program",
         "ZIP": "https://chaos-data.projectdiscovery.io/vfs.zip"
@@ -24049,12 +24049,6 @@
     },
     {
         "domain": "miwifi.com",
-        "name": "Xiaomi",
-        "platform_url": "https://hackerone.com/xiaomi",
-        "ZIP": "https://chaos-data.projectdiscovery.io/xiaomi.zip"
-    },
-    {
-        "domain": "global.shop",
         "name": "Xiaomi",
         "platform_url": "https://hackerone.com/xiaomi",
         "ZIP": "https://chaos-data.projectdiscovery.io/xiaomi.zip"
