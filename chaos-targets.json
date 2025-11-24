@@ -2526,6 +2526,12 @@
         "ZIP": "https://chaos-data.projectdiscovery.io/casper.zip"
     },
     {
+        "domain": "cava.com",
+        "name": "Cava",
+        "platform_url": "http://cava.com/.well-known/security.txt",
+        "ZIP": "https://chaos-data.projectdiscovery.io/cava.zip"
+    },
+    {
         "domain": "cbre.com",
         "name": "CBRE",
         "platform_url": "https://hackerone.com/cbre",
@@ -21751,6 +21757,18 @@
     },
     {
         "domain": "dolap.com",
+        "name": "Trendyol",
+        "platform_url": "https://hackerone.com/trendyol",
+        "ZIP": "https://chaos-data.projectdiscovery.io/trendyol.zip"
+    },
+    {
+        "domain": "tgoyemek.com",
+        "name": "Trendyol",
+        "platform_url": "https://hackerone.com/trendyol",
+        "ZIP": "https://chaos-data.projectdiscovery.io/trendyol.zip"
+    },
+    {
+        "domain": "trendyol-milla.com",
         "name": "Trendyol",
         "platform_url": "https://hackerone.com/trendyol",
         "ZIP": "https://chaos-data.projectdiscovery.io/trendyol.zip"
